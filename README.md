@@ -3,6 +3,8 @@
 Hey there, here in tis project i create a Password Generator using html,css and js. It's 
 comes with  multiple functionality and features.
 
+## Live Demo
+https://shaswatauchiha.github.io/Password-Generator/
 
 ## Features
 
